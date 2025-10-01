@@ -9,7 +9,7 @@ It checks if your target is there on Tellonym.
 
 ```
 git clone https://github.com/povzayd/tellminator.git
-cd Tellminator
+cd tellminator
 pip install -r requirements.txt
 ```
 ###### Requirements
