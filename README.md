@@ -54,6 +54,8 @@ python tellminator.py --username --input usernames.txt --log results.log
 ✅ johndoe - User Found
 🚫 randomname123 - User Not Found
 ```
+![](./tellminator.gif)
+
 ---
 </details>
 
